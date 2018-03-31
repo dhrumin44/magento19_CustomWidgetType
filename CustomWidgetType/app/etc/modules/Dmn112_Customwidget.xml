@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Dmn112_Customwidget>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Dmn112_Customwidget>
+    </modules>
+</config> 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgets>
+  <customwidget_links type="customwidget/widget" module="customwidget">
+    <name>Customwidget</name>
+    <description>Custom description</description>
+    <parameters>
+      <link_options>
+        <label>Link Options</label>
+        <visible>1</visible>
+        <required>1</required>
+        <type>multiselect</type>
+        <source_model>customwidget/options</source_model>
+      </link_options>
+      <custom_text>
+        <visible>1</visible>
+        <label>Custom Text</label>
+        <type>text</type>
+       </custom_text>
+    </parameters>
+  </customwidget_links>
+</widgets>

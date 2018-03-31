@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Dmn112_Customwidget>
+            <version>0.1.0</version>
+        </Dmn112_Customwidget>
+    </modules>
+    <global>
+        <blocks>
+            <customwidget>
+                <class>Dmn112_Customwidget_Block</class>
+            </customwidget>
+        </blocks>
+        <helpers>
+            <customwidget>
+                <class>Dmn112_Customwidget_Helper</class>
+            </customwidget>
+        </helpers>
+        <models>
+            <customwidget>
+                <class>Dmn112_Customwidget_Model</class>
+            </customwidget>
+        </models>
+    </global>
+</config>
